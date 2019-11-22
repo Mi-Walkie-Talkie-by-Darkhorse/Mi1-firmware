@@ -1,1 +1,1 @@
-# Mi1-firmware
+# Xiaomi Mi Walkie Talkie (MJDJJ01FY) firmware
